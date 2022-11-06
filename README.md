@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @denisuryadi26
+<h2 align="left">Hi 👋! My name is Deni Suryadi and I'm a Fullstack Web Developer, from Indonesia</h2>
+
+<!-- - 👋 Hi, I’m @denisuryadi26 -->
 - 👀 I’m interested in Web Developer and Mobile Developer
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Open Source and/or Corporate projects
