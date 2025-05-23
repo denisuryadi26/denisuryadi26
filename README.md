@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Deni Suryadi and I'm a Fullstack Web Developer, from Indonesia</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=435&lines=Full+Stack+Web+Developer;Passionate+about+scalable+web+apps;Lifelong+learner+and+problem-solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=435&lines=Full+Stack+Web+Developer;Passionate+about+scalable+web+apps;Stock+and+Crypto+Investor" alt="Typing SVG" />
 </p>
 
 ###
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/denisuryadi26">
-    <img src="https://img.shields.io/github/followers/haykal24?label=Follow&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/denisuryadi26?label=Follow&style=social" alt="GitHub followers">
   </a>
   <a href="https://www.linkedin.com/in/denisuryadi26/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
@@ -38,17 +38,6 @@
 </p>
 
 ---
-
-###
-
-<div align="center">
-  <a href="deni.w4f@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/denisuryadi26/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ### 🌟 About Me
 
