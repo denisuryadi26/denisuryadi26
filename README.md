@@ -1,16 +1,7 @@
-<h2 align="left">Hi 👋! My name is Deni Suryadi and I'm a Fullstack Web Developer, from Indonesia</h2>
-
-<!-- - 👋 Hi, I’m @denisuryadi26 -->
-- 👀 I’m interested in Web Developer and Mobile Developer
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Open Source and/or Corporate projects
-- 📫 Contact me on email deni.w4f@gmail.com
-
-<!---
-denisuryadi26/denisuryadi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- <h2 align="left">Hi 👋! My name is Arthur Martins Braga and I'm a software developer, from Brazil</h2> -->
+<h1 align="center">👋 Hi, I’m Deni Suryadi and I'm a Fullstack Web Developer, from Indonesia</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&width=435&lines=Full+Stack+Web+Developer;Passionate+about+scalable+web+apps;Lifelong+learner+and+problem-solver" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -32,6 +23,24 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
+---
+
+<p align="center">
+  <a href="https://github.com/denisuryadi26">
+    <img src="https://img.shields.io/github/followers/haykal24?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://www.linkedin.com/in/denisuryadi26/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:deni.w4f@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+###
+
 <div align="center">
   <a href="deni.w4f@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -41,4 +50,39 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-###
+### 🌟 About Me
+
+I’m a **Full Stack Web Developer** passionate about building modern, interactive, and scalable web applications.
+
+- 🔥 Frontend: HTML, CSS, JavaScript, React.js, Vue.js, Next.js, Bootstrap, jQuery
+- 💾 Backend: Node.js, Express.js, PHP (Laravel, CodeIgniter), Go
+- 🗄️ Databases: MySQL, PostgreSQL
+- 🔗 Other: RESTful API integration, Git/GitHub, Data Visualization, Machine Learning basics
+
+---
+
+### 🚀 Currently Working On
+
+- 📊 **Data Analyst** at PT Indosat, Tbk (2017 – 2019)
+- 💻 IT Development at PT Bintang Dagang International (2020-2021)
+- 💻 Full Stack Web Developer at PT Majapahit Nusantara (2021)
+- 💻 Full Stack Web Developer at PT Tokopandai Nusantara (2021 – Present)
+- 🔧 Freelancer Web Developer (Jan 2023 – Present)
+
+---
+
+### 🤝 Let’s Collaborate On
+
+- Web app development (frontend/backend)
+- API integrations & custom solutions
+- Creative digital portfolios & landing pages
+
+---
+
+### 📫 Reach Me
+
+- ✉️ Email: [deni.w4f@gmail.com](mailto:deni.w4f@gmail.com)
+- 📱 WhatsApp: +62 855-160-7171
+- 🌐 Portfolio: [anekaproject.com](https://anekaproject.com)
+
+---
